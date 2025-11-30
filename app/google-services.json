@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1234567890",
+    "project_id": "placeholder-project",
+    "storage_bucket": "placeholder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1234567890:android:abcdef123456",
+        "android_client_info": {
+          "package_name": "com.example.a23100211practicacalificada2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUMMYKEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": "ENABLED"
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
